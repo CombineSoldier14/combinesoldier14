@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CombineSoldier14</h1>
+<h1 align="center">👋 Hi, I'm CombineSoldier14</h1>
 <h3 align="center">An idiot on the internet with multiple interests</h3>
 
 - 🔭 I’m currently working on [UltraBot](http://www.combinesoldier14.site/p/ultrabot-links-faq.html)
@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **CMBTeam, my Geometry Dash creating team**
 
-- 👨‍💻 All of my projects are available at [combinesoldier14.site](combinesoldier14.site)
+- 👨‍💻 All of my projects are available at [combinesoldier14.site](https://combinesoldier14.site)
 
-- 📝 I regularly write articles on [combinesoldier14.site](combinesoldier14.site)
+- 📝 I regularly write articles on [combinesoldier14.site](https://combinesoldier14.site)
 
-- 💬 Ask me about **Mobile phone hacking, MBTI,**
+- 💬 Ask me about **Mobile phone hacking and MBTI**
 
 - 📫 How to reach me **combinesoldier14@gmail.com**
 
