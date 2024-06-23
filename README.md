@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm CombineSoldier14</h1>
 <h3 align="center">An idiot on the internet with multiple interests</h3>
 
-- 🔭 I’m currently working on [UltraBot](http://www.combinesoldier14.site/p/ultrabot-links-faq.html)
-
+- 🔭 I’m currently working on [CombineBot](http://www.combinesoldier14.site/p/ultrabot-links-faq.html)
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **CMBTeam, my Geometry Dash creating team**
