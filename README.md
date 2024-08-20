@@ -27,6 +27,6 @@
 <h2>Code stats</h2>
 <img src="https://wakatime.com/share/@67108e6a-8e08-460c-80d0-36df71d9c210/35a34375-783a-4fcd-bcf6-01e4ef480133.svg" />
 
-<img src="https://wakatime.com/share/@67108e6a-8e08-460c-80d0-36df71d9c210/5277c562-f4ec-464d-90d3-0ccfffc19085.svg" />
+<img src="https://wakatime.com/share/@67108e6a-8e08-460c-80d0-36df71d9c210/ea03be8d-b207-4c2c-94ea-61368f7331dd.svg" />
 
 <img src="https://wakatime.com/share/@67108e6a-8e08-460c-80d0-36df71d9c210/39073de8-b9e3-4d85-b9ac-ad0d544ff40a.svg" />
