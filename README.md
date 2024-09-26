@@ -2,9 +2,9 @@
 <h3 align="center">An idiot on the internet with multiple interests</h3>
 
 - 🔭 I’m currently working on [CombineBot](http://www.combinesoldier14.site/p/ultrabot-links-faq.html)
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **CMBTeam, my Geometry Dash creating team**
+- 👯 I’m looking to collaborate on **anything!**
 
 - 👨‍💻 All of my projects are available at [combinesoldier14.site](https://combinesoldier14.site)
 
