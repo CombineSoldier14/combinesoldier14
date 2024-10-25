@@ -16,6 +16,10 @@
 
 - ⚡ Fun fact **Flashed LineageOS 4 times to the same phone (it was HELL)**
 
+- 🖥️ OS: **Arch Linux** (btw)
+
+- 🖥️ Desktop: **KDE** and **Hyprland**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/@combinesoldier14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@combinesoldier14" height="30" width="40" /></a>
