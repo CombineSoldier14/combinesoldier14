@@ -18,7 +18,7 @@
 
 - 🖥️ OS: **Arch Linux** (btw)
 
-- 🖥️ Desktop: **KDE** and **Hyprland**
+- 🖥️ Desktop: **SwayWM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
