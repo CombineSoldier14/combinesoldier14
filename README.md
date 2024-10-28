@@ -16,9 +16,9 @@
 
 - ⚡ Fun fact **Flashed LineageOS 4 times to the same phone (it was HELL)**
 
-- 🖥️ OS: **Arch Linux** (btw)
+- 🖥️ OS: **Fedora**
 
-- 🖥️ Desktop: **SwayWM**
+- 🖥️ Desktop: **KDE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
