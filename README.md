@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Flashed LineageOS 4 times to the same phone (it was HELL)**
 
-- 🖥️ OS: **Fedora**
+- 🖥️ OS: **Tuxedo OS**
 
 - 🖥️ Desktop: **KDE**
 
