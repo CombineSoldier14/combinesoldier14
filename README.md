@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm CombineSoldier14</h1>
+<h1 align="center">CombineSoldier14</h1>
 <h3 align="center">An idiot on the internet with multiple interests</h3>
 
 - 🔭 I’m currently working on [CombineBot](http://www.combinesoldier14.site/p/ultrabot-links-faq.html)
