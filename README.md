@@ -28,6 +28,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+![CMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=combinesoldier14&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyo_night&show_icons=true)
+
 <h2>Code stats</h2>
 <img src="https://wakatime.com/share/@67108e6a-8e08-460c-80d0-36df71d9c210/35a34375-783a-4fcd-bcf6-01e4ef480133.svg" />
 
