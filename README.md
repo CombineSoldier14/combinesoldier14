@@ -17,9 +17,7 @@
 
 - ⚡ Fun fact **Flashed LineageOS 4 times to the same phone (it was HELL)**
 
-- 🖥️ OS: **Arch (btw)**
-
-- 🖥️ Desktop: **Hyprland**
+- 🖥️ OS: **Fedora KDE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
