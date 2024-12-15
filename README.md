@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CombineJS](https://www.combinesoldier14.site/combinebot)
   
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **anything!**
 
@@ -18,6 +18,13 @@
 - ⚡ Fun fact **Flashed LineageOS 4 times to the same phone (it was HELL)**
 
 - 🖥️ OS: **Fedora KDE**
+
+**Languages I know:**
+  - Python
+  - Java/TypeScript
+  - HTML/CSS
+  - C++
+  - a somewhat decent amount of Rust
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
