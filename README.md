@@ -20,10 +20,10 @@
 - 🖥️ OS: **Fedora KDE**
 
 **Languages I know:**
+  - C/C++ (primary language)
   - Python
   - Java/TypeScript
   - HTML/CSS
-  - C++
   - a somewhat decent amount of Rust
 
 <h3 align="left">Connect with me:</h3>
