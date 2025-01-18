@@ -1,9 +1,9 @@
 <h1 align="center">CombineSoldier14</h1>
 <h3 align="center">An idiot on the internet with multiple interests</h3>
 
-- 🔭 I’m currently working on [CombineJS](https://www.combinesoldier14.site/combinebot)
+- 🔭 I’m currently working on [CombineBot](https://www.combinesoldier14.site/combinebot)
   
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **anything!**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Mobile phone hacking and MBTI**
 
-- 📫 How to reach me **combineemails14@gmail.com**
+- 📫 How to reach me **combineemails14@gmail.com** or **@combinesoldier14** on Discord
 
 - ⚡ Fun fact **Flashed LineageOS 4 times to the same phone (it was HELL)**
 
