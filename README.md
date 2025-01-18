@@ -17,14 +17,14 @@
 
 - ⚡ Fun fact **Flashed LineageOS 4 times to the same phone (it was HELL)**
 
-- 🖥️ OS: **Fedora KDE**
+- 🖥️ OS: **Arch (btw) KDE**
 
 **Languages I know:**
-  - C/C++ (primary language)
+  - C++
   - Python
   - Java/TypeScript
   - HTML/CSS
-  - a somewhat decent amount of Rust
+  - a somewhat decent amount of Rust and C#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
