@@ -29,6 +29,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/@combinesoldier14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@combinesoldier14" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/profiles/76561198991614173" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" height="30" width="40" /></a>
+<a href="https://old.reddit.com/u/DogeDr0id709X" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png" alt="u/DogeDr0id709X" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
