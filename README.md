@@ -38,6 +38,8 @@
 
 ![CMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=combinesoldier14&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyo_night&show_icons=true)
 
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=combinesoldier14" alt="combinesoldier14" /></p>
+
 <h2>Code stats</h2>
 <img src="https://wakatime.com/share/@67108e6a-8e08-460c-80d0-36df71d9c210/35a34375-783a-4fcd-bcf6-01e4ef480133.svg" />
 
