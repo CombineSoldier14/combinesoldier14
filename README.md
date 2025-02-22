@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Flashed LineageOS 4 times to the same phone (it was HELL)**
 
-- 🖥️ OS: **Arch (btw) KDE** (and Windows 7 on a laptop)
+- 🖥️ OS: **Arch (btw) KDE** (and Windows Vista on a laptop no I will not upgrade)
 
 **Languages I know:**
   - C++
