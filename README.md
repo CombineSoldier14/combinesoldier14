@@ -26,6 +26,12 @@
   - HTML/CSS
   - a somewhat decent amount of Rust and C#
 
+**Some Projects that I like!:**
+- [TF2 Gold Rush](https://github.com/conneath/TF2-GoldRush) (hoping to join their dev team soon!)
+- [Trinity Desktop Environment](https://www.trinitydesktop.org/)
+- [Katana Desktop Enviornment](https://github.com/fluxer/katana)
+- [AeroChat](https://aerochat.live/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/@combinesoldier14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@combinesoldier14" height="30" width="40" /></a>
