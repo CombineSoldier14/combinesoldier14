@@ -44,6 +44,8 @@
 
 ![CMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=combinesoldier14&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyo_night&show_icons=true)
 
+[![CMB's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=combinesoldier14&exclude_repo=CombineBot-Python,CombineSystem)](https://github.com/combinesoldier14/github-readme-stats&exclude_repo=CombineBot-Python,CombineSystem)
+
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=combinesoldier14" alt="combinesoldier14" /></p>
 
 <h2>Code stats</h2>
