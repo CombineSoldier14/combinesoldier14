@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **combineemails14@gmail.com** or **@combinesoldier14** on Discord
 
-- ⚡ Fun fact: **Have used almost every mainline Linux distribution that exists at some points!**
+- ⚡ Fun fact: **Have used almost every mainline Linux distribution that exists at some point!**
 
 - 🖥️ OS: **Arch (btw) KDE** (and Windows Vista on a laptop no I will not upgrade)
 
