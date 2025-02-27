@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **combineemails14@gmail.com** or **@combinesoldier14** on Discord
 
-- ⚡ Fun fact **Flashed LineageOS 4 times to the same phone (it was HELL)**
+- ⚡ Fun fact: **Have used almost every mainline Linux distribution that exists at some points!**
 
 - 🖥️ OS: **Arch (btw) KDE** (and Windows Vista on a laptop no I will not upgrade)
 
