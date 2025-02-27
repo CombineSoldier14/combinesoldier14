@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **anything!**
 
-- 👨‍💻 All of my projects are available at [combinesoldier14.site](https://combinesoldier14.site)
+- 👨‍💻 All of my projects are available at [combinesoldier14.github.io](https://combinesoldier14.github.io)
 
-- 📝 I regularly write articles on [combinesoldier14.site](https://combinesoldier14.site)
-
-- 💬 Ask me about **Mobile phone hacking and MBTI**
+- 📝 I regularly write articles on [combinesoldier14.github.io](https://combinesoldier14.github.io)
+  
+ - 💬 Ask me about **Mobile phone hacking and MBTI**
 
 - 📫 How to reach me **combineemails14@gmail.com** or **@combinesoldier14** on Discord
 
