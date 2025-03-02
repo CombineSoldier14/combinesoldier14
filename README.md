@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **Have used almost every mainline Linux distribution that exists at some point!**
 
-- 🖥️ OS: **Arch (btw) KDE** (and Windows Vista on a laptop no I will not upgrade)
+- 🖥️ OS: **Arch (btw) KDE**
 
 **Languages I know:**
   - C++
