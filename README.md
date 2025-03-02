@@ -27,7 +27,7 @@
   - a somewhat decent amount of Rust and C#
 
 **Some Projects that I like!:**
-- [TF2 Gold Rush](https://github.com/conneath/TF2-GoldRush) (hoping to join their dev team soon!)
+- [TF2 Gold Rush](https://github.com/conneath/TF2-GoldRush)
 - [Trinity Desktop Environment](https://www.trinitydesktop.org/)
 - [Katana Desktop Enviornment](https://github.com/fluxer/katana)
 - [AeroChat](https://aerochat.live/)
