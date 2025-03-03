@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [combinesoldier14.github.io](https://combinesoldier14.github.io)
   
- - 💬 Ask me about **Mobile phone hacking and MBTI**
+ - 💬 Ask me about **literally any computer topic!**
 
 - 📫 How to reach me **combineemails14@gmail.com** or **@combinesoldier14** on Discord
 
