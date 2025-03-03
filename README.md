@@ -17,7 +17,8 @@
 
 - ⚡ Fun fact: **Have used almost every mainline Linux distribution that exists at some point!**
 
-- 🖥️ OS: **Arch (btw) KDE**
+- 🖥️ OS: **OpenSUSE Tumbleweed KDE**
+    - (As I distrohop a lot, this is likely to change)
 
 **Languages I know:**
   - C++
@@ -31,6 +32,7 @@
 - [Trinity Desktop Environment](https://www.trinitydesktop.org/)
 - [Katana Desktop Enviornment](https://github.com/fluxer/katana)
 - [AeroChat](https://aerochat.live/)
+- [Geckium](https://github.com/angelbruni/Geckium)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
