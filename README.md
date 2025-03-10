@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CombineBot](https://www.combinesoldier14.site/combinebot)
   
-- 🌱 I’m currently learning **Source SDK!**
+- 🌱 I’m currently learning **JavaScript!**
 
 - 👯 I’m looking to collaborate on **anything!**
 
