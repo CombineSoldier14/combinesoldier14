@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **Have used almost every mainline Linux distribution that exists at some point!**
 
-- 🖥️ OS: **Fedora KDE**
+- 🖥️ OS: **OpenSUSE Tumbleweed KDE**
     - (As I distrohop a lot, this is likely to change)
 
 **Languages I know:**
