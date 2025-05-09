@@ -1,7 +1,7 @@
 <h1 align="center">CombineSoldier14</h1>
 <h3 align="center">An idiot on the internet with multiple interests</h3>
 
-- 🔭 I’m currently working on [CombineBot](https://www.combinesoldier14.site/combinebot)
+- 🔭 I’m currently working on [CombineBot](https://combinebot.github.io/)
   
 - 🌱 I’m currently learning **Tkinter!**
 
