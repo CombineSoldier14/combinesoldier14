@@ -1,23 +1,20 @@
 <h1 align="center">CombineSoldier14</h1>
-<h3 align="center">An idiot on the internet with multiple interests</h3>
 
 - 🔭 I’m currently working on [CombineBot](https://combinebot.github.io/)
   
-- 🌱 I’m currently learning **Tkinter!**
+- 🌱 I’m currently learning **web design!**
 
 - 👯 I’m looking to collaborate on **anything!**
 
 - 👨‍💻 All of my projects are available at [combinesoldier14.github.io](https://combinesoldier14.github.io)
 
 - 📝 I regularly write articles on [combinesoldier14.github.io](https://combinesoldier14.github.io)
-  
- - 💬 Ask me about **literally any computer topic!**
 
 - 📫 How to reach me **combineemails14@gmail.com** or **@combinesoldier14** on Discord
 
 - ⚡ Fun fact: **Have used almost every mainline Linux distribution that exists at some point!**
 
-- 🖥️ OS: **Fedora KDE**
+- 🖥️ OS: **Arch KDE**
     - (As I distrohop a lot, this is likely to change)
 
 **Languages I know:**
